@@ -754,3 +754,16 @@ color: #777;
 #methods {
 	padding: 100px 0;
 }
+.major .fa {
+	font-size: 42px;
+	width: 135px;
+	height: 135px;
+	padding: 0px 0;
+	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	border-radius: 50%;
+	color: #fff;
+	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+}
+.faicon{
+	padding: 30px;
+}
