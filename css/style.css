@@ -194,7 +194,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	background: rgb(0 0 0 / 0.6);
+	    background: rgb(0 0 0 / 0.6);
 }
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
